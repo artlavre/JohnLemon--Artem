@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c93c5bd8010793a4aa027fbd93ba6922
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IBM Plex Sans Thin
+  fontNames:
+  - IBM Plex Sans Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3acb93be03f1ef42b4e4ada895af95f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
